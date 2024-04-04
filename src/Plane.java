@@ -125,6 +125,9 @@ public class Plane {
         dir++;
         if (dir == 4) {
             dir = 0;
+
+
+
         }
         System.out.println("Вы повернули направо");
     }
